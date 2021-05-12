@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "maze"
+  "defaultProject": "maze",
+  "cli": {
+    "analytics": false
+  }
 }
